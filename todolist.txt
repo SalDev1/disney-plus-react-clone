@@ -1,0 +1,3 @@
+node node_modules/react-scripts/scripts/start.js
+
+Always check out the docs of the react-packages you will be using for easy refrence and getting the approach.
